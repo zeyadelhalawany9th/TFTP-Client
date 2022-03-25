@@ -217,9 +217,12 @@ def main():
    check_file_name()
    print("*" * 50)
 
+
    # ip_address = get_arg(1, "127.0.0.1")
    # operation = get_arg(2, "push")
    # file_name = get_arg(3, "test.txt")
+
+
 
    command = input("Enter your Command: ")
 
